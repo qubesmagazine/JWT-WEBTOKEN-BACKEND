@@ -1,3 +1,5 @@
+#Project Setup
+
 Node.js, MongoDB, and Postman used to create a backend that implements JSON Web Tokens (JWT) for authentication. With JWT, users can be authenticated and authorized to access resources on the server. Here's how i created JWT backend:
 
 First, create a MongoDB database to store user information, including usernames and hashed passwords.
